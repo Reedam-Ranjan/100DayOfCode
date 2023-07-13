@@ -1,7 +1,7 @@
 //33. Write a Java program to find all interleavings of given strings
 
 import java.util.Scanner;
-public class interleavings_w3_33 {
+public class interleavings {
     public static void main(String args[]){
 
 
